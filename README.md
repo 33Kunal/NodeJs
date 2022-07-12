@@ -1,6 +1,6 @@
 # NodeJs
 #Topic covered are
-#modules
+#modules.
 #eventsEmmitter
 #BrainCycle of HTTP request
 #BrainCycle of HTTP request
