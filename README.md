@@ -7,7 +7,7 @@
 #NPM Command.
 #Nodemon.
 #Event Loop Slides
-#Async Patterns
+#Async Patterns.
 #Streams
 #buffer
 #Node's Native Option.
