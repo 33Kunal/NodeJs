@@ -5,7 +5,7 @@
 #BrainCycle of HTTP request
 #BrainCycle of HTTP request
 #NPM Command.
-#Nodemon
+#Nodemon.
 #Event Loop Slides
 #Async Patterns
 #Streams
