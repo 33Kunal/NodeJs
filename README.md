@@ -4,7 +4,7 @@
 #eventsEmmitter
 #BrainCycle of HTTP request
 #BrainCycle of HTTP request
-#NPM Command
+#NPM Command.
 #Nodemon
 #Event Loop Slides
 #Async Patterns
